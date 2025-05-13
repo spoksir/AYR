@@ -30,6 +30,17 @@ Serão verificadas as funcionalidades da aplicação quanto ao nível funcional,
   * Registar uma atividade na app
 
  <br><br>
+## Critérios de Entrada e Saída
+### Critérios de Entrada
+- Aplicação AYR disponível (versão instalada)
+- Casos de teste definidos
+
+### Critérios de Saída
+- Todos os casos de teste executados (manuais e automatizados)
+- Todos os defeitos identificados reportados e registados
+- Resultados documentados (Excel, Maestro e README no Github)
+
+ <br><br>
 ## :books: Entregáveis
   - README.md
   - Maestro registo.yaml
