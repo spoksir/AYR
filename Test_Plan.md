@@ -12,19 +12,19 @@ Serão verificadas as funcionalidades da aplicação quanto ao nível funcional,
 
 <br><br>
 ## :mag: Âmbito dos Testes
-- 📚 **Cenário de Teste 1** - App Onboarding (Splash scrrens, Vídeo, até ao Login)
-- 🐞 **Cenário de Teste 2** - Login (Registo, Login, Recuperação de Password, tentativas falhadas)
-- 💼 **Cenário de Teste 3** - Actions (Registo de atividades em Bike, scooter, etc., autorização GPS, créditos)
-- ✉️ **Cenário de Teste 4** - Show me more (Secção About, e Legal, links para páginas exteriores relevantes)
-- ✉️ **Cenário de Teste 5** - Avoided CO2 (Verificação do total acumulado de CO2 evitado)
-- ✉️ **Cenário de Teste 6** - Wallet (AYR Dots/Credits, movimentos, detalhes)
-- ✉️ **Cenário de Teste 7** - Profile (Foto do perfil, persistência, alteração password)
+- :arrow_right:  **Cenário de Teste 1** - App Onboarding (Splash scrrens, Vídeo, até ao Login)
+- :arrow_right:  **Cenário de Teste 2** - Login (Registo, Login, Recuperação de Password, tentativas falhadas)
+- :arrow_right:  **Cenário de Teste 3** - Actions (Registo de atividades em Bike, scooter, etc., autorização GPS, créditos)
+- :arrow_right:  **Cenário de Teste 4** - Show me more (Secção About, e Legal, links para páginas exteriores relevantes)
+- :arrow_right:  **Cenário de Teste 5** - Avoided CO2 (Verificação do total acumulado de CO2 evitado)
+- :arrow_right:  **Cenário de Teste 6** - Wallet (AYR Dots/Credits, movimentos, detalhes)
+- :arrow_right:  **Cenário de Teste 7** - Profile (Foto do perfil, persistência, alteração password)
 
 <br><br>
 ## :wrench: Abordagem
-- 📚 Testes Manuais Exploratórios
-- 📚 Testes Manuais Estruturados
-- 📚 Automação com Maestro
+- :large_blue_circle: Testes Manuais Exploratórios
+- :large_blue_circle: Testes Manuais Estruturados
+- :large_blue_circle: Automação com Maestro
   * Criação de conta
   * Login com uma conta existente
   * Registar uma atividade na app
