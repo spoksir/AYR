@@ -6,12 +6,12 @@ Manual Testing and automation with Maestro to Android App: AYR - Are You Ready?
     
     
 <br><br>
-## 📋Objetivo
+## 📋Objetivo 
   Este Plano de Testes foi elaborado para definir o objetivo, o âmbito, a estratégia, o ambiente, os critérios de entrada e saída, bem como informações sobre os artefactos a entregar e o cronograma. O projeto baseia-se num desafio técnico baseado na aplicação AYR - Are You Ready?
 Serão verificadas as funcionalidades da aplicação quanto ao nível funcional, como a fluidez do onboarding, o fluxo de autenticação, o registo de atividades e GPS, navegação entre menus, operações na Wallet e gestão de perfil. Será testada também quanto ao nível não funcional para responsividade das transições, usabilidade (legibilidade da UI e contraste).
 
 <br><br>
-## 🌎 Âmbito dos Testes
+## :mag: Âmbito dos Testes
 - 📚 **Cenário de Teste 1** - App Onboarding (Splash scrrens, Vídeo, até ao Login)
 - 🐞 **Cenário de Teste 2** - Login (Registo, Login, Recuperação de Password, tentativas falhadas)
 - 💼 **Cenário de Teste 3** - Actions (Registo de atividades em Bike, scooter, etc., autorização GPS, créditos)
@@ -21,7 +21,7 @@ Serão verificadas as funcionalidades da aplicação quanto ao nível funcional,
 - ✉️ **Cenário de Teste 7** - Profile (Foto do perfil, persistência, alteração password)
 
 <br><br>
-## 💻 Abordagem
+## :wrench: Abordagem
 - 📚 Testes Manuais Exploratórios
 - 📚 Testes Manuais Estruturados
 - 📚 Automação com Maestro
@@ -30,7 +30,7 @@ Serão verificadas as funcionalidades da aplicação quanto ao nível funcional,
   * Registar uma atividade na app
 
  <br><br>
-## 🎓 Entregáveis
+## :books: Entregáveis
   - README.md
   - Maestro registo.yaml
   - Maestro login.yaml
