@@ -4,6 +4,11 @@ Manual Testing and automation with Maestro to Android App: AYR - Are You Ready?
   <br><br>
   <h1 align="center">Plano de Testes</h1>
     
+---
+**App Version:** 2.9.17  
+**Test Plan Version:** 1  
+**Data:** 2025-05-14  
+---
     
 <br><br>
 ## 📋Objetivo 
