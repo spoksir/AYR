@@ -11,6 +11,7 @@ Manual Testing and automation with Maestro to Android App: AYR - Are You Ready?
 
 <br><br>
 ## :mag: Ferramentas necessárias
+- :arrow_right:  **AYR APK Version: 2.9.17**
 - :arrow_right:  **Maestro CLI**
 - :arrow_right:  **Android Studio**
 - :arrow_right:  **Excell**
