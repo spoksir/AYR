@@ -37,7 +37,7 @@ Serão verificadas as funcionalidades da aplicação quanto ao nível funcional,
  <br><br>
 ## Critérios de Entrada e Saída
 ### Critérios de Entrada
-- Aplicação AYR disponível (versão instalada)
+- Aplicação AYR disponível (versão instalada: 2.9.17)
 - Casos de teste definidos
 
 ### Critérios de Saída
