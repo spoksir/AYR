@@ -40,17 +40,16 @@ Manual Testing and automation with Maestro to Android App: AYR - Are You Ready?
 ```text
 AYR/
 ├── maestro-flows/               # Automação em Maestro
-│   ├── registo.yaml             # TC-1-CT-4: Skip até Login
-│   ├── login.yaml               # TC-3-CT-1 e CT-2: GPS + Start/Stop
-│   └── registo_atividade.yaml   # TC-5-CT-03: Novo movimento e validação
+│   ├── registo.yaml             # TC-1-CT-4 + TC-2-CT-1
+│   ├── login.yaml               # TC-2-CT-1
+│   └── registo_atividade.yaml   # TC-3-CT-2
 │
 ├── testes-manuais/              # Testes manuais e artefactos
 │   ├── TestsCeiia.xlsx          # Abas: CasosTeste, CasosTeste_Execução, Bugs
 │   └── TestPlan.md              # Plano de Testes em Markdown
 │
 └── README.md                    # Visão geral, como executar e estrutura
-
-
+```
 
 <br><br>
 ## :wrench: Dúvidas ou ajuda sobre o projeto
