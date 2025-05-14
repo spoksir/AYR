@@ -74,6 +74,7 @@ Validar o fluxo de registo de uma atividade: menu geral → escolher opção →
 Foi realizado com sucesso o flow sendo utilizado o comando "runFlow" para realizar o login com sucesso e seguir instruções para registo de atividade.
 
 :clapper:  [Resultado do flow em Vídeo](https://drive.google.com/file/d/1X7b_J5HSp7CEI79w6n7nX81ACcBhIfRZ/view?usp=drive_link)
+:postbox:  [Screenshot](https://drive.google.com/file/d/13dqAuZok0BHdhbi3TY6Qzl_P04Bjniuj/view?usp=drive_link) 
 
 **Descrição do Fluxo**  
 ```yaml
