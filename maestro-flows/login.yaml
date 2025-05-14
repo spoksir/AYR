@@ -1,0 +1,46 @@
+appId: com.ceiia.ayr
+---
+
+- launchApp:
+    clearState: true
+
+- waitForAnimationToEnd:
+    timeout: 5000    
+
+- assertVisible:
+    id: "com.ceiia.ayr:id/videoView"
+
+- swipe:
+    direction: left
+    duration: 5000
+
+- swipe:
+    direction: left
+    duration: 5000
+
+- swipe:
+    direction: left
+    duration: 5000        
+
+- tapOn:
+    text: "SKIP"
+    waitToSettleTimeoutMs: 500  
+
+- tapOn:
+    id: "com.ceiia.ayr:id/login_phone_til"
+
+- inputText:
+    text: "915451459"
+
+- tapOn:
+    id: "com.ceiia.ayr:id/login_password_til"   
+
+- inputText:
+    text: "Teste123*"    
+
+- tapOn:
+    text: "Next"   
+    waitToSettleTimeoutMs: 5000        
+
+- tapOn:
+    text: "ACCEPT"      

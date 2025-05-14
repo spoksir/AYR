@@ -1,0 +1,33 @@
+appId: com.ceiia.ayr
+---
+#- runFlow: login.yaml
+
+- waitForAnimationToEnd:
+    timeout: 10000    
+
+- tapOn:
+    id: "com.ceiia.ayr:id/action_iv"
+    index: 0
+
+- extendedWaitUntil:   
+    visible: "Activity"
+    timeout: 10000
+
+- tapOn:
+    id: "com.ceiia.ayr:id/start_activity_btn"
+
+- extendedWaitUntil:  
+    visible: "Stop"
+    timeout: 20000
+
+- tapOn:
+    text: "Stop" 
+
+- extendedWaitUntil:   
+    visible: "End"
+    timeout: 10000       
+
+- tapOn:
+    text: "End"     
+
+
