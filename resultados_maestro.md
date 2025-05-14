@@ -73,12 +73,38 @@ Foi realizado com sucesso o flow sendo utilizado o comando "runFlow" para realiz
 ```yaml
 appId: com.ceiia.ayr
 ---
-
-- launchApp:
-    clearState: true
+#- runFlow: login.yaml
 
 - waitForAnimationToEnd:
-    timeout: 5000
+    timeout: 10000    
+
+- tapOn:
+    id: "com.ceiia.ayr:id/action_iv"
+    index: 0
+
+- extendedWaitUntil:   
+    visible: "Activity"
+    timeout: 10000
+
+- tapOn:
+    id: "com.ceiia.ayr:id/start_activity_btn"
+
+- extendedWaitUntil:  
+    visible: "Stop"
+    timeout: 20000
+
+- tapOn:
+    text: "Stop" 
+
+- extendedWaitUntil:   
+    visible: "End"
+    timeout: 10000       
+
+- tapOn:
+    text: "End"     
+
+
+
 
 ```
 ### 3. Registo de Utilizador - Flow
