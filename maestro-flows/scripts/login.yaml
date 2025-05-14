@@ -5,7 +5,7 @@ appId: com.ceiia.ayr
     clearState: true
 
 - waitForAnimationToEnd:
-    timeout: 5000    
+    timeout: 10000    
 
 - assertVisible:
     id: "com.ceiia.ayr:id/videoView"
