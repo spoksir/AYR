@@ -30,7 +30,7 @@ Manual Testing and automation with Maestro to Android App: AYR - Are You Ready?
 ## Executar
 ### Testes Manuais
 - Abrir ficheiro markdown: [📊 Plano de Teste](testes-manuais/Test_Plan.md)
-- Abrir ficheiro Excell: [📊 Caos de Teste, Execução e Bugs](https://github.com/spoksir/AYR/raw/refs/heads/main/testes-manuais/Tests_Ceiia.xlsx)
+- Abrir ficheiro Excell: [📊 Casos de Teste, Execução e Bugs](https://github.com/spoksir/AYR/raw/refs/heads/main/testes-manuais/Tests_Ceiia.xlsx)
 - Alternar entre as folhas "Casos_Teste", "Casos_Teste_Execução", "Bugs")
 - Drive com os artefactos: https://drive.google.com/drive/folders/1bdqV82YO4NmQ3JfHOc30Tgzv6vvlz2ac?usp=drive_link
 
