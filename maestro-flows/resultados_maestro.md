@@ -121,6 +121,7 @@ Validar o fluxo completo de registo de utilizador: onboarding → Skip → sign 
 Foi automatizado parte do fluxo com sucesso mas não foi possível concluir devido à limitação de ser necessário registo com número de telefone e confirmação via SMS. Seria necessário explorar soluções
 
 :clapper:  [Resultado do flow em Vídeo]()
+:postbox:  [Screenshot](https://drive.google.com/file/d/14QzlULW_etQL1O6ThgBzl4IZLBOK5hl4/view?usp=drive_link) 
 
 **Descrição do Fluxo**  
 ```yaml
