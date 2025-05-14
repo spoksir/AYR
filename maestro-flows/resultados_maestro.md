@@ -73,7 +73,7 @@ appId: com.ceiia.ayr
 Validar o fluxo de registo de uma atividade: menu geral → escolher opção → iniciar percurso + finalizar percurso → sucesso.
 Foi realizado com sucesso o flow sendo utilizado o comando "runFlow" para realizar o login com sucesso e seguir instruções para registo de atividade.
 
-:clapper:  [Resultado do flow em Vídeo](https://drive.google.com/file/d/1X7b_J5HSp7CEI79w6n7nX81ACcBhIfRZ/view?usp=drive_link)
+:clapper:  [Resultado do flow em Vídeo](https://drive.google.com/file/d/1X7b_J5HSp7CEI79w6n7nX81ACcBhIfRZ/view?usp=drive_link)  
 :postbox:  [Screenshot](https://drive.google.com/file/d/13dqAuZok0BHdhbi3TY6Qzl_P04Bjniuj/view?usp=drive_link) 
 
 **Descrição do Fluxo**  
@@ -120,7 +120,7 @@ appId: com.ceiia.ayr
 Validar o fluxo completo de registo de utilizador: onboarding → Skip → sign up + preenchimento dos campos → aceitar Terms & Conditions → Confirmação.
 Foi automatizado parte do fluxo com sucesso mas não foi possível concluir devido à limitação de ser necessário registo com número de telefone e confirmação via SMS. Seria necessário explorar soluções
 
-:clapper:  [Resultado do flow em Vídeo]()
+:clapper:  [Resultado do flow em Vídeo]()  
 :postbox:  [Screenshot](https://drive.google.com/file/d/14QzlULW_etQL1O6ThgBzl4IZLBOK5hl4/view?usp=drive_link) 
 
 **Descrição do Fluxo**  
