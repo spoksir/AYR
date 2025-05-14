@@ -86,3 +86,4 @@ appId: com.ceiia.ayr
 - tapOn:
     id: "com.ceiia.ayr:id/btnNegative"
     waitToSettleTimeoutMs: 500
+
