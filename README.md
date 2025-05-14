@@ -35,8 +35,8 @@ Manual Testing and automation with Maestro to Android App: AYR - Are You Ready?
 
 ### Testes Automatizados
 - [Maestro - Flow Registo de Utilizador](maestro-flows/scripts/registo.yaml)
-- maestro test maestro-flows/login.yaml
-- maestro test maestro-flows/registo_atividade.yaml
+- [Maestro - Flow Login](maestro-flows/scripts/login.yaml)
+- [Maestro - Flow Registo de Atividade](maestro-flows/scripts/registo_atividade.yaml)
 
  <br><br>
 ## :books: Estrutura do repositório
