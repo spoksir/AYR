@@ -7,7 +7,7 @@ Manual Testing and automation with Maestro to Android App: AYR - Are You Ready?
     
 <br><br>
 ## 📋Descrição 
-  Este repositório foi criado para execução de testes manuais e automação com maestro num projeto de desafio técnico de teste à aplicação AYR.
+  Este repositório foi criado para execução de testes manuais e automação com maestro num projeto de teste à aplicação mobile AYR, uma plataforma sustentável para construir um mundo livre de CO2.
 
 <br><br>
 ## :mag: Ferramentas necessárias
@@ -21,14 +21,15 @@ Manual Testing and automation with Maestro to Android App: AYR - Are You Ready?
 <br><br>
 ## :wrench: Preparar o ambiente
 - :large_blue_circle: Clonar o Repositório: git clone https://github.com/spoksir/AYR.git 
-- :large_blue_circle: Passo 2
-- :large_blue_circle: Passo 3
+- :large_blue_circle: Instalar Maestro
+- :large_blue_circle: Instalar Android Studio
+- :large_blue_circle: Instalar VS Code
 
 
  <br><br>
 ## Executar
 ### Testes Manuais
-- Abrir testes-manuais/Tests_Ceiia.xlsx
+- Abrir ficheiro Excell: testes-manuais/Tests_Ceiia.xlsx
 - Alternar entre as folhas "Casos_Teste", "Casos_Teste_Execução", "Bugs")
 - Drive com os artefactos: https://drive.google.com/drive/folders/1bdqV82YO4NmQ3JfHOc30Tgzv6vvlz2ac?usp=drive_link
 
