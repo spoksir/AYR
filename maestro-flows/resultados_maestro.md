@@ -14,7 +14,8 @@ Este documento descreve os três flows automatizados criados com **Maestro CLI**
 Validar o fluxo completo de autenticação: onboarding → Skip → preenchimento de nr.Tlf + password → acesso ao menu principal.
 Foi realizado com sucesso o flow.
 
-:clapper:  [Resultado do flow em Vídeo](https://drive.google.com/file/d/1pFHPJTtZ8zzK9COZhKmIdonsuXbjBaaA/view?usp=drive_link)
+:clapper:  [Resultado do flow em Vídeo](https://drive.google.com/file/d/1pFHPJTtZ8zzK9COZhKmIdonsuXbjBaaA/view?usp=drive_link)  
+:postbox:  [Screenshot](https://drive.google.com/file/d/1hdZwwcc8tLUfjPDWGKaSdzaRqhfn5RXr/view?usp=drive_link)  
 
 
 **Descrição do Fluxo**  
