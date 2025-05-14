@@ -30,6 +30,7 @@ Manual Testing and automation with Maestro to Android App: AYR - Are You Ready?
 ### Testes Manuais
 - Abrir testes-manuais/Tests_Ceiia.xlsx
 - Alternar entre as folhas "Casos_Teste", "Casos_Teste_Execução", "Bugs")
+- Drive com os artefactos: https://drive.google.com/drive/folders/1bdqV82YO4NmQ3JfHOc30Tgzv6vvlz2ac?usp=drive_link
 
 ### Testes Automatizados
 - maestro test maestro-flows/registo.yaml
