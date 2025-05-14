@@ -14,6 +14,9 @@ Este documento descreve os três flows automatizados criados com **Maestro CLI**
 Validar o fluxo completo de autenticação: onboarding → Skip → preenchimento de nr.Tlf + password → acesso ao menu principal.
 Foi realizado com sucesso o flow.
 
+:clapper:  [Resultado do fluxo em Vídeo](https://drive.google.com/file/d/1pFHPJTtZ8zzK9COZhKmIdonsuXbjBaaA/view?usp=drive_link)
+
+
 **Descrição do Fluxo**  
 ```yaml
 appId: com.ceiia.ayr
@@ -69,6 +72,8 @@ appId: com.ceiia.ayr
 Validar o fluxo de registo de uma atividade: menu geral → escolher opção → iniciar percurso + finalizar percurso → sucesso.
 Foi realizado com sucesso o flow sendo utilizado o comando "runFlow" para realizar o login com sucesso e seguir instruções para registo de atividade.
 
+:clapper:  [Resultado do fluxo em Vídeo]()
+
 **Descrição do Fluxo**  
 ```yaml
 appId: com.ceiia.ayr
@@ -112,6 +117,8 @@ appId: com.ceiia.ayr
 **Descrição e Resultados**  
 Validar o fluxo completo de registo de utilizador: onboarding → Skip → sign up + preenchimento dos campos → aceitar Terms & Conditions → Confirmação.
 Foi automatizado parte do fluxo com sucesso mas não foi possível concluir devido à limitação de ser necessário registo com número de telefone e confirmação via SMS. Seria necessário explorar soluções
+
+:clapper:  [Resultado do fluxo em Vídeo]()
 
 **Descrição do Fluxo**  
 ```yaml
