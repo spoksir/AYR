@@ -125,5 +125,92 @@ Foi automatizado parte do fluxo com sucesso mas não foi possível concluir devi
 appId: com.ceiia.ayr
 ---
 
+- launchApp:
+    clearState: true
+
+- waitForAnimationToEnd:
+    timeout: 10000    
+
+- assertVisible:
+    id: "com.ceiia.ayr:id/videoView"
+
+- swipe:
+    direction: left
+    duration: 5000
+
+- swipe:
+    direction: left
+    duration: 5000
+
+- swipe:
+    direction: left
+    duration: 5000        
+
+- tapOn:
+    text: "SKIP"
+    waitToSettleTimeoutMs: 500  
+
+- tapOn:
+    id: "com.ceiia.ayr:id/sign_up_tv"
+    waitToSettleTimeoutMs: 500
+
+- tapOn:
+    point: 50%,28%
+    waitToSettleTimeoutMs: 500
+
+- inputText:
+    text: "Francisco"       
+
+- tapOn:
+    point: 50%,42%
+    waitToSettleTimeoutMs: 500
+
+- inputText:
+    text: "Vieira"    
+
+- tapOn:
+    point: 50%,55%
+    waitToSettleTimeoutMs: 500
+
+- inputText:
+    text: "franciscovieira88@gmail.com"   
+
+- swipe:       
+    direction: up
+
+- assertVisible:
+    id: "com.ceiia.ayr:id/next_btn"    
+  
+- tapOn:
+    point: 67%,34%
+    waitToSettleTimeoutMs: 500
+
+- inputText:
+    text: "915451459"   
+
+- tapOn:
+    point: 50%,53%
+    waitToSettleTimeoutMs: 500
+
+- inputText:
+    text: "Teste123*" 
+
+- tapOn:
+    id: "com.ceiia.ayr:id/next_btn"
+    waitToSettleTimeoutMs: 500  
+
+- tapOn:
+    point: "8%,59%"  
+
+- tapOn:
+    id: "com.ceiia.ayr:id/next_btn"        
+   
+- assertVisible: "There is already a user registered with this username. Please login."
+
+- tapOn:
+    id: "com.ceiia.ayr:id/btnNegative"
+    waitToSettleTimeoutMs: 500
+
+
 
 
