@@ -53,6 +53,7 @@ Serão verificadas as funcionalidades da aplicação quanto ao nível funcional,
   - Maestro registo_atividade.yaml
   - Tests_Ceiia.xlsx
   - TestPlan.md
+  - Artefactos com resultados (vídeos, screenshot's, reports)
 
 <br><br>
 ## 📝 Cronograma
