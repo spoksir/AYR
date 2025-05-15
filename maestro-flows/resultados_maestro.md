@@ -120,7 +120,7 @@ appId: com.ceiia.ayr
 Validar o fluxo completo de registo de utilizador: onboarding → Skip → sign up + preenchimento dos campos → aceitar Terms & Conditions → Confirmação.
 Foi automatizado parte do fluxo com sucesso mas não foi possível concluir devido à limitação de ser necessário registo com número de telefone e confirmação via SMS. Seria necessário explorar soluções
 
-:clapper:  [Resultado do flow em Vídeo]()  
+:clapper:  [Resultado do flow em Vídeo](https://drive.google.com/file/d/1wkNAF8PTdj3COe9K18Uqvhlotu00vC-Q/view?usp=drive_link)  
 :postbox:  [Screenshot](https://drive.google.com/file/d/14QzlULW_etQL1O6ThgBzl4IZLBOK5hl4/view?usp=drive_link) 
 
 **Descrição do Fluxo**  
